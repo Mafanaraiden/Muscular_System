@@ -1,0 +1,9 @@
+C:\Users\valer\source\repos\muscile\muscile\bin\Debug\muscile.exe.config
+C:\Users\valer\source\repos\muscile\muscile\bin\Debug\muscile.exe
+C:\Users\valer\source\repos\muscile\muscile\bin\Debug\muscile.pdb
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.Form1.resources
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.Properties.Resources.resources
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.exe
+C:\Users\valer\source\repos\muscile\muscile\obj\Debug\muscile.pdb
